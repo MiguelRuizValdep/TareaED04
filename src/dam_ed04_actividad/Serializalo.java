@@ -8,7 +8,8 @@ import java.io.Serializable;
 
 /**
  *
- * @author miguel
+ * @author Miguel Ruiz-Valdfepeñas.
+ * @version 0.01
  */
 public class Serializalo implements Serializable {
     
